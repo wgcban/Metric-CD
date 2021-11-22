@@ -15,6 +15,6 @@ Figure 1. Demonstration of how our proposed TTT-CD algorithm finds changes in th
 Create a virtual conda environment using the provided environment.yml (you may use: conda env create -f environment.yml).
 
 ## Run Demo.
-Once the environment is setup, open Demo_OSCD from jupyter notebook and simply run the file. 
+Once the environment is setup, open Demo_OSCD from jupyter notebook and simply run the file.
 
 
