@@ -1,5 +1,5 @@
-# TTT-CD
-Official PyTorch implementation of "Test-Time Training for Change Detection in Remote Sensing Images" (TTT-CD)
+# Deep Metric Learning for Unsupervised CD
+Official PyTorch implementation of "Deep Metric Learning for Unsupervised Change Detection in Remote Sensing Images" (Metric-CD)
 
 # Introduction
 <p float="left">
@@ -8,7 +8,7 @@ Official PyTorch implementation of "Test-Time Training for Change Detection in R
   <img src="/imgs/cm.png" width="200" /> 
   <img src="/imgs/lasvegas.gif" width="200" />
 </p>
-Figure 1. Demonstration of how our proposed TTT-CD algorithm finds changes in the multi-temporal remote sensing image (for beirut image pair in OSCD dataset).
+Figure 1. Demonstration of how our proposed algorithm finds changes in the multi-temporal remote sensing image (for beirut image pair in OSCD dataset).
 
 # Demo on OSCD dataset
 ## Conda environment.
