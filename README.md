@@ -1,4 +1,4 @@
-# Deep Metric Learning for Unsupervised CD
+# Deep Metric Learning for Unsupervised CD (WACV'25)
 Official PyTorch implementation of "Deep Metric Learning for Unsupervised Change Detection in Remote Sensing Images" (Metric-CD)
 
 paper: https://arxiv.org/abs/2303.09536
